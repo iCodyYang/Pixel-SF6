@@ -8,7 +8,7 @@
 
 **设备支持**：键盘、手柄、HitBox（针对 Mac 端，雷蛇妖狐做过单独适配）
 
-**[在线体验](https://icodyyang.github.io/Pixel-SF6/) · [下载游戏](#下载游戏)**
+**[在线体验](https://icodyyang.github.io/Pixel-SF6/) · [下载游戏](https://github.com/iCodyYang/Pixel-SF6/releases/latest)**
 
 ![像素街霸6：折腾 FM 游戏大厅](images/main.png)
 
@@ -26,9 +26,11 @@
 
 ## 下载游戏
 
-下载 [index.html](index.html)，双击用桌面浏览器打开。等待素材载入，点击场地或按一下键，即可练习和播放声音。
+前往 [Releases 下载页面](https://github.com/iCodyYang/Pixel-SF6/releases/latest)，下载附件 **Pixel-SF6.html**；也可以 [直接下载 HTML](https://github.com/iCodyYang/Pixel-SF6/releases/latest/download/Pixel-SF6.html)。
 
-**只需要这一个 HTML，所有游戏素材已内嵌，无需安装依赖，也不需要启动服务器。** 从 GitHub 下载时，请保存实际 HTML 文件，不要保存文件预览页面。
+双击用桌面浏览器打开。等待素材载入，点击场地或按一下键，即可练习和播放声音。
+
+**只需要这一个 HTML，所有游戏素材已内嵌，无需安装依赖，也不需要启动服务器。** 无需下载 Releases 页面自动生成的 Source code 压缩包。
 
 ### 默认键位
 
