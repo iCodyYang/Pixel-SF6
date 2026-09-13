@@ -26,7 +26,7 @@
 
 ## 下载游戏
 
-前往 [Releases 下载页面](https://github.com/iCodyYang/Pixel-SF6/releases/latest)，下载附件 **Pixel-SF6.html**；也可以 [直接下载 HTML](https://github.com/iCodyYang/Pixel-SF6/releases/latest/download/Pixel-SF6.html)。
+下载附件 **[Pixel-SF6.html](https://github.com/iCodyYang/Pixel-SF6/releases/latest/download/Pixel-SF6.html)**。
 
 双击用桌面浏览器打开。等待素材载入，点击场地或按一下键，即可练习和播放声音。
 
