@@ -8,7 +8,7 @@
 
 **设备支持**：键盘、手柄、HitBox（针对 Mac 端，雷蛇妖狐做过单独适配）
 
-**[在线体验](https://icodyyang.github.io/Pixel-SF6/) · [下载游戏](https://github.com/iCodyYang/Pixel-SF6/releases/latest)**
+**[在线体验](https://icodyyang.github.io/Pixel-SF6/) · [下载游戏](#下载游戏)**
 
 ![像素街霸6：折腾 FM 游戏大厅](images/main.png)
 
