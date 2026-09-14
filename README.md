@@ -28,7 +28,7 @@
 
 下载附件 **[Pixel-SF6.html](https://github.com/iCodyYang/Pixel-SF6/releases/latest/download/Pixel-SF6.html)**。
 
-双击用桌面浏览器打开。等待素材载入，点击场地或按一下键，即可练习和播放声音。
+双击用桌面浏览器打开。等待素材载入，点击场地或按一下键，即可练习。
 
 **只需要这一个 HTML，所有游戏素材已内嵌，无需安装依赖，也不需要启动服务器。** 无需下载 Releases 页面自动生成的 Source code 压缩包。
 
